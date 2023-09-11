@@ -23,6 +23,8 @@ then type source schema.sql to create the database(drop if exist)
 then type node seeds/seed.js in the root directory of the challenge folder to seed the database and tables with data
 npm start 
 
+https://arcane-brook-84637-a6a6228ad115.herokuapp.com
+
 ## Contributing
 N/A
 
