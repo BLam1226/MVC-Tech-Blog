@@ -8,15 +8,15 @@ const { User, Post, Comment } = require("../models");
     const users = await User.bulkCreate([
       {
         username: "LernantinoG3",
-        password: "password12345",
+        password: "password1",
       },
       {
         username: "Amiko2k20A",
-        password: "password12345",
+        password: "password2",
       },
       {
         username: "Jordan99MSN",
-        password: "password12345",
+        password: "password3",
       },
     ]);
 
